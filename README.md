@@ -4,9 +4,10 @@ This dataset supports the research presented in the paper "Cognition-Driven Deep
 
 ## Dataset Overview
 
-- Platform: UGV (see `UGV.png`)
+- Platform: UGV
 - Number of sequences: 8
-- Trajectory overview: `Trajectory.png`
+- Trajectory overview: see below
+- Dataset files: currently being further organized and will be uploaded shortly.
 
 ## Description
 
@@ -14,8 +15,13 @@ The dataset is designed for robust multisensor fusion and autonomous inspection 
 
 ## Figures
 
-- `UGV.png`: shows the UGV platform used for data collection.
-- `Trajectory.png`: presents the full trajectory map across all 8 sequences.
+![UGV platform](Readme/UGV.png)
+
+*Figure 1: UGV platform used for data collection.*
+
+![Trajectory overview](Readme/Trajectory.png)
+
+*Figure 2: Full trajectory map across all 8 sequences, with challenges annotated.*
 
 ## Challenges
 
