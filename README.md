@@ -1,6 +1,6 @@
 # PADRL-Fusion-Dataset
 
-This dataset supports the research presented in the paper "Cognition-Driven Deep Reinforcement Learning for Robust Multisensor Fusion in Unmanned Inspection Systems." It was collected using an unmanned ground vehicle (UGV), and it contains a total of 8 sequences.
+This dataset supports the research presented in the paper "Adaptive Asynchronous Deep Reinforcement Learning for Robust Multisensor Fusion in Unmanned Inspection Systems". It was collected using an unmanned ground vehicle (UGV), and it contains a total of 8 sequences.
 
 ## Dataset Overview
 
